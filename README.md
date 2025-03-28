@@ -1,6 +1,6 @@
-<h3 align="center">
-  🌍 Spinning into GitHub like... <br> 👋🏼 Hi, I'm <b>Rafe</b>!
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rafe!;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</h1>
 
 
 <!--
