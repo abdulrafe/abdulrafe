@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning React Native to build seamless cross-platform mobile apps.
 - 👯 I'm eager to collaborate on high-impact, scalable systems that challenge me to grow and contribute at a world-class level.
 - 💬 Ask me about **Java**, **SpringBoot**, **NextJS**, **AWS**
-- 📫 How to reach me: mabdulrafe7113@gmail.com
+- 📫 How to reach me: rafemoham3@gmail.com
 
 ## 🧰 Languages and tools:
 
